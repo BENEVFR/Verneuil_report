@@ -26,7 +26,7 @@ const selectOptions = [
     value: 'critere_type_nature_global',
     children: [
       {
-        name: 'Non domestiquée',
+        name: 'Non-domestiquée',
         value: 'critere_nature_nondomest',
       },
       {
@@ -48,11 +48,11 @@ const selectOptions = [
     value: 'critere_exposition_nature_global'
   },
   {
-    name: "Fréquence d'activité dans la nature",
+    name: "Fréquence d'activités dans la nature",
     value: 'critere_activ_global',
     children: [
       {
-        name: 'Sociales et paisibles',
+        name: 'Sociales et calmes',
         value: 'critere_activ_social_calme',
       },
       {
